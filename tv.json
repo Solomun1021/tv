@@ -13,7 +13,7 @@
       "key": "lzzy",
       "name": "量子｜点播",
       "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,7 @@
       "key": "bfzy",
       "name": "暴风｜点播",
       "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "api": "http://bfzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
       "key": "360zy",
       "name": "360｜点播",
       "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod/",
+      "api": "http://360zy.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -40,7 +40,7 @@
       "key": "hhzy",
       "name": "火狐｜点播",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "api": "http://hhzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -49,7 +49,7 @@
       "key": "jszy",
       "name": "极速｜点播",
       "type": 1,
-      "api": "https://jszyapi.com/api.php/provide/vod",
+      "api": "http://jszyapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,7 +58,7 @@
       "key": "subo",
       "name": "速博｜点播",
       "type": 1,
-      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "api": "http://subocaiji.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
